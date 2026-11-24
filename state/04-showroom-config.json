@@ -1,0 +1,131 @@
+{
+  "clientId": "zap-motors",
+  "businessType": "concessionaria",
+  "_telemetry": {
+    "agent_id": "art-director-gold",
+    "skill_loaded": "design-master + project-genesis-harness",
+    "gold_reference_used": "concessionaria.gold.json"
+  },
+  "brandPalette": {
+    "primaryHex": "#09090B",
+    "secondaryHex": "#DC2626",
+    "accentHex": "#E4E4E7"
+  },
+  "navbar": {
+    "brandDisplayName": "ZAP MOTORS",
+    "logoUrl": "/ig-logo.jpg"
+  },
+  "hero": {
+    "badgeText": "SHOWROOM SOROCABA · DESDE 2020",
+    "headline": "CHEVROLET TRACKER PREMIER 1.2 TURBO",
+    "subheadline": "Veículos multimarcas selecionados em Sorocaba com qualidade, procedência e atendimento personalizado pelo WhatsApp.",
+    "heroMediaUrl": "/inventory/gm-chevrolet-tracker-2023/1.jpg",
+    "mediaValidatedClean": true,
+    "ctaPrimaryText": "Ver Dossiê"
+  },
+  "activeSections": [
+    "inventory_grid",
+    "vip_deliveries_social_proof",
+    "institutional_lounge"
+  ],
+  "inventoryItems": [
+    {
+      "modelName": "CHEVROLET TRACKER PREMIER 1.2 TURBO",
+      "year": 2023,
+      "specsSummary": "1.2 Turbo 12V Flex Automático · Cor Prata · Bancos em Couro · Câmera de Ré",
+      "imageUrl": "/inventory/gm-chevrolet-tracker-2023/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "CAOA CHERY TIGGO 5X TXS 1.5 TURBO",
+      "year": 2022,
+      "specsSummary": "1.5 16V Turbo Flex Automático · Cor Preta · Bancos em Couro · Rodas Esportivas",
+      "imageUrl": "/inventory/chery-tiggo-5x-txs-2022/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HYUNDAI NEW TUCSON GLS 1.6 TURBO",
+      "year": 2020,
+      "specsSummary": "1.6 Turbo 16V Gasolina Automático · Cor Preta · Bancos em Couro",
+      "imageUrl": "/inventory/hyundai-tucson-gls-2020/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "JEEP COMPASS LONGITUDE T270",
+      "year": 2023,
+      "specsSummary": "1.3 Turbo Flex 185 cv · Multimídia 10.1\" · Painel Digital · Full LED",
+      "imageUrl": "/inventory/jeep-compass-longitude-2023/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HYUNDAI TUCSON 2.0 16V FLEX",
+      "year": 2017,
+      "specsSummary": "2.0 16V Flex Automática · Cor Cinza · Bancos em Couro · Completa",
+      "imageUrl": "/inventory/hyundai-tucson-2017/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "CHEVROLET CRUZE SEDAN FLEX",
+      "year": 2014,
+      "specsSummary": "Sedan Flex · Cor Preta · Bancos em Couro · Sensor e Câmera de Ré",
+      "imageUrl": "/inventory/gm-chevrolet-cruze-2014/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "VOLKSWAGEN POLO TRACK 1.0 MPI",
+      "year": 2023,
+      "specsSummary": "1.0 MPI Flex · Apenas 1.780 km · Rodas Pretas · Multimídia e Subwoofer",
+      "imageUrl": "/inventory/vw-polo-track-2023/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "HYUNDAI HB20S COMFORT PLUS",
+      "year": 2025,
+      "specsSummary": "1.0 Kappa Flex · 49.000 km · Cor Azul Sapphire · Multimídia 8\"",
+      "imageUrl": "/inventory/hyundai-hb20s-2025/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "VOLKSWAGEN FUSCA 1600 ITAMAR",
+      "year": 1994,
+      "specsSummary": "1.6 Boxer a Ar · Câmbio Manual 4M · Cor Prata · Exemplar Colecionável",
+      "imageUrl": "/inventory/vw-fusca-1600-1994/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "NISSAN VERSA SV 1.6 CVT",
+      "year": 2020,
+      "specsSummary": "1.6 16V Flex 111 cv · Câmbio XTRONIC CVT · Multimídia · Cor Branca",
+      "imageUrl": "/inventory/nissan-versa-sv-2020/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "TOYOTA ETIOS HATCH X 1.3",
+      "year": 2016,
+      "specsSummary": "1.3 16V Flex Manual · Único Dono · Manual e Chave Reserva · Laudo Aprovado",
+      "imageUrl": "/inventory/toyota-etios-x-2016/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "CITROËN C3 FLEX 2015",
+      "year": 2015,
+      "specsSummary": "Flex · Cor Preta · Câmera de Ré · Bluetooth · Rodas Esportivas",
+      "imageUrl": "/inventory/citroen-c3-2015/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    },
+    {
+      "modelName": "CITROËN C3 FLEX 2008",
+      "year": 2008,
+      "specsSummary": "Flex · Cor Preta · Som · Travas Elétricas · Chave Reserva",
+      "imageUrl": "/inventory/citroen-c3-2008/1.jpg",
+      "imageAuditTag": "clean_vehicle_only"
+    }
+  ],
+  "vipDeliveries": [
+    {
+      "caption": "Showroom próprio no Jardim Simus em Sorocaba com atendimento online e presencial personalizado.",
+      "imageUrl": "/showroom-zap.jpg",
+      "imageAuditTag": "lifestyle_or_delivery"
+    }
+  ]
+}
